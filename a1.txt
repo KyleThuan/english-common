@@ -1,4 +1,8 @@
 action1
 action1-test
+<<<<<<< HEAD
 action2-test
 action1-test2
+=======
+action2s-test
+>>>>>>> test
